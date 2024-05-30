@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('../Img/UtaBanner.jpg');
+    background-size: cover;
+    background-position: center; /* Centra la imagen en el contenedor */
+}
+
+.card {
+    width: 300px;
+    border: 1px solid #ccc; /* Borde de 1 píxel sólido de color gris claro */
+    border-radius: 10px; /* Bordes redondeados */
+    margin-top: 50px; /* Ajusta el valor según tus preferencias */
+
+}
+
+.card-body {
+    padding: 20px;
+    
+}
+
+
+#register-form {
+    display: none;
+}
